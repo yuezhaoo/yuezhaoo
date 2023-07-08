@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="coding.gif" width="500" height="320" />
 
-## 🙋‍♂️ About Me
+## 🙋 About Me
 
 🎓 I’m an enthusiastic student pursuing my Masters in Computer Science. <br>
 🌱 I’m currently learning Full Stack Development. <br>
